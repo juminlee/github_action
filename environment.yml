@@ -1,0 +1,15 @@
+name: cubebuilder
+channels:
+  - omnia
+  - conda-forge
+dependencies:
+  - python=3.9
+  - openmm=7.7.0
+  - ambertools=22.0
+  - openff-toolkit=0.11.2
+  - numpy=1.23.3
+  - networkx=2.8.4
+  - jinja2=3.0.3
+  - pyyaml=6.0
+  - cython=0.29.32
+  - pytest=7.1.2
